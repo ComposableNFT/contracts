@@ -1,0 +1,29 @@
+{
+  "name": "@composablenft/contracts",
+  "description": "An architecture for composing ERC721 tokens with ERC1155 tokens by adding extensions to these already widely used standards.",
+  "version": "0.0.3",
+  "files": [
+    "/**/*.sol",
+    "!/mocks/**/*"
+  ],
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComposableNFT/contracts.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ComposableNFT/contracts/issues"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "composable",
+    "nft"
+  ],
+  "homepage": "https://composablenft.org"
+}
