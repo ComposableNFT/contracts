@@ -76,25 +76,21 @@ Gas consumption of `_setMutexComponents` grows proportionally with the length of
 
 ## Application examples
 
--   Avatars
+- Avatars:
+    - ERC721C -> Base avatar
+    - ERC1155C -> Clothes, accessories, weapons, etc...
 
-    ERC721C -> Base avatar<br />
-    ERC1155C -> Clothes, accessories, weapons, etc...
+- Cars:
+    - ERC721C -> Chassis
+    - ERC1155C -> Engines, wheels, transmissions, etc...
 
--   Cars:
+- Boxes:
+    - ERC721C -> Token Box
+    - ERC1155C -> Any token  
 
-    ERC721C -> Chassis<br />
-    ERC1155C -> Engines, wheels, transmissions, etc...
-
--   Boxes:
-
-    ERC721C -> Token Box<br />
-    ERC1155C -> Any token  
-
--   Houses
-
-    ERC721C -> Building<br />
-    ERC1155C -> Furnitures
+- Houses:
+    - ERC721C -> Building
+    - ERC1155C -> Furnitures
 
 ## Examples
 
